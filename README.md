@@ -18,8 +18,6 @@ This repository contains Python practical exercises and solutions for various to
        * Check various arithmetic operators of Python.
        * Write a Python program to check output of modulo operator.
          
-* [Contributing](#contributing)
-* [License](#license)
 
 
 ## Introduction
