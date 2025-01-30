@@ -8,10 +8,16 @@ This repository contains Python practical exercises and solutions for various to
     * [Prerequisites](#prerequisites)
     * [Installation](#installation)
 * [Practicals](#practicals)
-    * [Basic Python]
-    * [Data Structures]
-    * [Object-Oriented Programming (OOP)]
-   
+    * [Basic Python]:
+       * Write a Python program to print “Hello World”.
+       * Write a Python program to swap two variables using third variable.
+       * Write a Python program to swap two variables without third variable.
+       * Write a Python program to find square root of positive number.
+       * Write a Python program to find area of a rectangle and circle.
+       * Write a Python program to find sum of n natural numbers without loop.
+       * Check various arithmetic operators of Python.
+       * Write a Python program to check output of modulo operator.
+         
 * [Contributing](#contributing)
 * [License](#license)
 
